@@ -42,4 +42,8 @@ Q10: price, balance, total. TicketMachine. getPrice, getBalance, insertMoney, pr
 
 Q11: It did not seem to have a class right after public and the class seemed to be after the method
 
-Q12:
+Q12: The type is int, Student and Server
+
+Q13: The name is alive, tutor and game
+
+Q14: It's Student, Server, Person, Game
