@@ -56,6 +56,17 @@ Q16: Yes it is or else it's gonna give an error
 
 Q17: private int status;
 
-Q18:
+Q18: Student
 
-Q19: 
+Q19: There are 3 parameters called book, string title and double price
+
+Q20: Yes they will need to be stored in a field. 
+
+Q21: public Pet(String petsName)
+{
+    name = petsName
+}
+
+Q22: public int getDate()
+
+Q23
