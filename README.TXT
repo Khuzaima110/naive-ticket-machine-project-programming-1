@@ -71,3 +71,19 @@ Q22: public int getDate()
 
 Q23: The difference in the header would be what is it called, and in the body it
      would be what they are returning
+    
+Q24: How much money is there?
+
+Q25: No, the return statement still work, this tells me that the getBalance here acts more
+     like a name for what you want to do.
+
+Q26: I have done added the getTotal method and it works
+
+Q27: It says missing return statement
+
+Q28: The different between the two is that the getPrice returns a value while the printTicket
+     prints out a small text that can contain numbers, letters and other symbols
+    
+Q29: No because for printTicket you aren't getting, so is for the insertMoney
+
+Q30
