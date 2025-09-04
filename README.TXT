@@ -42,8 +42,20 @@ Q10: price, balance, total. TicketMachine. getPrice, getBalance, insertMoney, pr
 
 Q11: It did not seem to have a class right after public and the class seemed to be after the method
 
-Q12: The type is int, Student and Server
+Q12:The type is int, Student and Server
 
-Q13: The name is alive, tutor and game
+Q13:The name is alive, tutor and game
 
-Q14: It's Student, Server, Person, Game
+Q14:It's Student, Server, Person, Game
+
+Q15:It does matter what order clas private int price; is in otherwise it's gonna give an error
+    The appearance of the class diagram after each chance does give me a clue as to 
+    whether other ordering are possible, and it seemed like it wasn't.
+
+Q16: Yes it is or else it's gonna give an error
+
+Q17: private int status;
+
+Q18:
+
+Q19: 
