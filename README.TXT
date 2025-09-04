@@ -69,4 +69,5 @@ Q21: public Pet(String petsName)
 
 Q22: public int getDate()
 
-Q23
+Q23: The difference in the header would be what is it called, and in the body it
+     would be what they are returning
