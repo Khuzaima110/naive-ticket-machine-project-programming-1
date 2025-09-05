@@ -86,4 +86,7 @@ Q28: The different between the two is that the getPrice returns a value while th
     
 Q29: No because for printTicket you aren't getting, so is for the insertMoney
 
-Q30
+Q31: public void increaseScore(int points) { 
+        
+        score = score + points;
+    }
