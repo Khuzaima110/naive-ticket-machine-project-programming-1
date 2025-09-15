@@ -90,3 +90,38 @@ Q31: public void increaseScore(int points) {
         
         score = score + points;
     }
+    
+Q32: Yes it is a mutator. it is because of the part credit += additionalPoimts;
+
+Q33: /**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+    price= price-amount;
+// TODO: Subtract amount from price.
+}
+
+Q34: public void setAge(int currentAge) {
+            this.age= currentAge;
+}
+
+Q35: public void setAlive (boolean alive) {
+    this.alive=alive;
+}
+
+Q36: It seems like the amount I initially put in did not register
+
+Q37: My cat has green eyes.
+
+Q38: 
+
+Q39: it says 
+
+##################
+# The BlueJ Line
+# Ticket
+# price cents.
+##################
+
+Q40:
