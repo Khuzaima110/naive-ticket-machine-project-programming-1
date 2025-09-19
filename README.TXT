@@ -135,5 +135,3 @@ Q40:It says
 Q43: It prints the same output
 
 Q44: What it does is that it changes the previous price of 0 cents to 1000 cents
-
-Q45: 
