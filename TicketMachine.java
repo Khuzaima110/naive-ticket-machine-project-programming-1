@@ -51,6 +51,10 @@ public class TicketMachine
         return balance;
     }
 
+    public void showPrice() {
+        System.out.print("The price of a ticket is" +  price  +  "cents" );
+    }
+    
     /**
      * Receive an amount of money from a customer.
      */
@@ -70,7 +74,7 @@ public class TicketMachine
         System.out.println("##################");
         System.out.println("# The BlueJ Line");
         System.out.println("# Ticket");
-        System.out.println("# " + price + " cents.");
+        System.out.println("# " + price + "cents.");
         System.out.println("##################");
         System.out.println();
 
